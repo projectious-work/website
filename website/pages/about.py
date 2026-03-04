@@ -36,7 +36,7 @@ def company() -> rx.Component:
 def principal() -> rx.Component:
     return section(
         rx.text(
-            "Bernhard Gl\u00fcck brings over 15 years of experience spanning "
+            "Bernhard Gerlach brings over 15 years of experience spanning "
             "engineering leadership, people management, analytics, and "
             "strategic consulting. His career includes leading cross-functional "
             "teams, driving Agile adoption across organisations, and "
@@ -62,12 +62,12 @@ def principal() -> rx.Component:
                 variant="outline",
                 size="3",
             ),
-            href="https://www.linkedin.com/in/bernhardglueck/",
+            href="https://www.linkedin.com/in/bege/",
             is_external=True,
             underline="none",
         ),
         title="The Principal",
-        subtitle="Bernhard Gl\u00fcck — Founder & Principal Consultant",
+        subtitle="Bernhard Gerlach — Founder & Principal Consultant",
         bg=LIGHT_GRAY,
     )
 
@@ -120,7 +120,7 @@ def _approach_card(icon: str, title: str, description: str) -> rx.Component:
 def speaking() -> rx.Component:
     return section(
         rx.text(
-            "Bernhard is an experienced speaker and writer on topics spanning "
+            "Bernhard Gerlach is an experienced speaker and writer on topics spanning "
             "AI adoption, Agile leadership, and cloud strategy. Conference "
             "talks and LinkedIn articles are in the works — watch this space.",
             size="4",
@@ -135,7 +135,7 @@ def speaking() -> rx.Component:
                     variant="outline",
                     size="3",
                 ),
-                href="https://www.linkedin.com/in/bernhardglueck/",
+                href="https://www.linkedin.com/in/bege/",
                 is_external=True,
                 underline="none",
             ),

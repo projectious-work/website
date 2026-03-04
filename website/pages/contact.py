@@ -55,8 +55,8 @@ def contact_page() -> rx.Component:
                 _contact_card(
                     "linkedin",
                     "LinkedIn",
-                    "linkedin.com/in/bernhardglueck",
-                    "https://www.linkedin.com/in/bernhardglueck/",
+                    "linkedin.com/in/bege",
+                    "https://www.linkedin.com/in/bege/",
                 ),
                 _contact_card(
                     "github",

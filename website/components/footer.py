@@ -20,7 +20,7 @@ def footer() -> rx.Component:
                     rx.hstack(
                         rx.link(
                             rx.icon("linkedin", size=20, color="white"),
-                            href="https://www.linkedin.com/in/bernhardglueck/",
+                            href="https://www.linkedin.com/in/bege/",
                             is_external=True,
                         ),
                         rx.link(

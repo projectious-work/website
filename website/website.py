@@ -51,7 +51,7 @@ app.add_page(
     about_page,
     route="/about",
     title="About — projectious.work",
-    description="AI-augmented IT consulting founded by Bernhard Glück. Senior expertise in Agentic AI, Agile, and Cloud.",
+    description="AI-augmented IT consulting founded by Bernhard Gerlach. Senior expertise in Agentic AI, Agile, and Cloud.",
     meta=[
         {"property": "og:title", "content": "About — projectious.work"},
         {"property": "og:description", "content": "Meet the team behind projectious.work — AI-augmented consulting."},

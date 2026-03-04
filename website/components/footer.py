@@ -30,7 +30,7 @@ def footer() -> rx.Component:
                         ),
                         rx.link(
                             rx.icon("mail", size=20, color="white"),
-                            href="mailto:hello@projectious.work",
+                            href="mailto:info@projectious.work",
                         ),
                         spacing="4",
                     ),

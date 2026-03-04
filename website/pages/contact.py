@@ -49,8 +49,8 @@ def contact_page() -> rx.Component:
                 _contact_card(
                     "mail",
                     "Email",
-                    "hello@projectious.work",
-                    "mailto:hello@projectious.work",
+                    "info@projectious.work",
+                    "mailto:info@projectious.work",
                 ),
                 _contact_card(
                     "linkedin",

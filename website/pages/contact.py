@@ -72,7 +72,7 @@ def contact_page() -> rx.Component:
         ),
         section(
             rx.callout(
-                "Based in Austria, serving clients globally. "
+                "Based in Germany, serving clients globally. "
                 "Available for remote engagements and on-site consulting "
                 "in the DACH region.",
                 icon="globe",

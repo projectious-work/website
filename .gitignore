@@ -6,6 +6,10 @@ __pycache__/
 *.db
 assets/external/
 
+# Secrets (defense-in-depth)
+.env
+.env.*
+
 # Environment
 .venv/
 *.egg-info/
